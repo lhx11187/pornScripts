@@ -30,6 +30,22 @@ python3.x 环境
 
 + requests==2.18.4
 
+## 1024article.py:
+
+草榴1024技术讨论区热帖自动保存下载
+运行该脚本前应在该脚本同级目录新建文件夹1024article，该文件夹内保存的即为下载帖子的html
+
+python3.x 环境
+
+依赖包`requirements.txt`：
+
++ beautifulsoup4==4.5.3
+
++ bs4==0.0.1
+
++ requests==2.18.4
+
++ jinja2
 
 **注意：上述默认脚本均需要翻墙的网络环境呦** 
 
